@@ -1,0 +1,43 @@
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+ENV/
+.venv*/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- Streamlit ---
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# --- Env & secrets ---
+.env
+.env.*
+*.key
+*.pem
+
+# --- Logs & caches ---
+*.log
+logs/
+.cache/
+*.cache
+.ipynb_checkpoints/
