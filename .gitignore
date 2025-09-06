@@ -41,3 +41,6 @@ logs/
 .cache/
 *.cache
 .ipynb_checkpoints/
+
+# virtual env
+RunSocialMediaPostApp/
