@@ -99,7 +99,6 @@ pip (Python package manager)
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Shaidhms/headlines-to-hashtags-using-streamlit-flaskapi.git
-cd headlines-to-hashtags-using-streamlit-flaskapi
 ```
 
 2. **Install dependencies**
@@ -128,7 +127,7 @@ streamlit run app.py
 
 5. **Access the Application**
 - **Flask API**: http://127.0.0.1:5001
-- **Streamlit UI**: http://localhost:8501
+- **Streamlit UI**: http://localhost:5000
 
 ## 📦 Dependencies
 
